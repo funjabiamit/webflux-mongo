@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-reactive-sample-boot-data-mongo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Khush
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-reactive-sample-boot-data-mongo
+Created-By: Maven Integration for Eclipse
+
